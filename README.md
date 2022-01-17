@@ -1,2 +1,4 @@
-# -Ng-Acharya-CS
-FOSS WORKSHOP-CS
+# ABSTRACT
+This Courier Management System Project will have different modules. The login section will have login facility for the admin and for the user who will operate this system. While taking orders from its customers, it will take all the details of its customers who is placing the orders and all the details for the recipient such as its address, name, mobile number. Through the tracking id, customers or its recipient will able to track their products from any location using internet. It will provide status of the product after placing orders within 1 minute. The admin can manipulate the data through admin login page and add any new consignment if required. The profile section shows the data of the user and the ricing section of the project shows the price that will be charged for the consignment according to the weight categories.
+Using the courier service person can easily send his/her parcel to other person in the particular destination within the time.
+
